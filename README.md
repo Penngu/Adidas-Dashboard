@@ -5,7 +5,7 @@ To identify operating profits along with sales by region and product in Year 202
 
 # Dataset 
 Data was extracted from Kaggle containing 9652 records and Attributes: Retailer,Retailer ID,Invoice Date, Region,Product, Price per Unit,	Units Sold and	Sales Method.
-Performed Data cleaning and created calculated columns for Total Sales, Operating profit and operating margin
+Performed Data cleaning and created calculated columns for Total Sales, Operating profit and operating margin.
 
 # Dashboard
 The Power BI dashboard provides visualizations and insights on the Sales performance by product, state and retailers allowing for zooming and filtering to dive deeper,and providing detailed insights on demand.
