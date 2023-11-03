@@ -18,4 +18,3 @@ The dashboard aims to provide a holistic view of the Adidas Sales for effective 
 4. Q3 Year 2021 had the highest sales (210M) and operating profit(80M).
 5. Men's street footwear was the highest selling product and Women's Athletic Footwear the lowest during 2020-21.
    
-[adidas.webm](https://github.com/Penngu/Adidas-Dashboard/assets/126509565/7e961edc-924f-4b99-9558-05dd05753f68)
